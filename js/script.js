@@ -1,2 +1,2 @@
-let variável
-console.log(variável)
+a  = 5%2
+console.log(a)
