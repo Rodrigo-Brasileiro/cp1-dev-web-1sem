@@ -60,7 +60,7 @@
 //Questão 5
 // var usuario = prompt("Nome de usuário:");
 // var senha = prompt("Senha:")
-// if (usario == "admin" %% senha == "1234"){
+// if (usario == "admin" && senha == "1234"){
 //     console.log("Login foi realizado com sucesso!")   
 // }
 // else{
